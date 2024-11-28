@@ -11,7 +11,7 @@ Minigrep es una implementación sencilla de una herramienta de búsqueda en arch
 Clona este repositorio y compila el proyecto:
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/MrSiir/rust-minigrep
 cd minigrep
 cargo build
 ```
